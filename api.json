@@ -1,6 +1,14 @@
 {
-    "URL_GAME_FILES" : "https://www.dropbox.com/scl/fi/l35ty1ioal3raquu0wmrd/cache.zip?rlkey=i3ukqwui935761dv039q8lhc2&dl=1",
-    "URL_VK": "https://serveralldaygames.github.io/ntgameapi",
-    "URL_TELEGRAM": "https://t.me/",
-    "URL_DISCORD": "https://discord.gg/"
+    "clientVersionCode": 1,
+    "clientSampVersionCode": 1,
+    "gameFilesVersionCode": 1,
+    "URL_GAME_FILES" : "http://147.50.252.112/ntgame/ntgamefile.zip",
+    "URL_GAME_FILES_UPD" : "http://147.50.252.112/ntgame/ntupdategame.zip",
+    "URL_VK": "https://vk.com/",
+    "URL_DISCORD": "https://discord.gg/",
+    "URL_YOUTUBE": "",
+    "URL_FORUM": "",
+    "URL_DONATE": "",
+    "URL_CLIENT": "",
+    "URL_CLIENTSAMPAPK": ""
 }

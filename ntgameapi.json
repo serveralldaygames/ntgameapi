@@ -2,13 +2,8 @@
     "clientVersionCode": 1,
     "clientSampVersionCode": 1,
     "gameFilesVersionCode": 1,
-    "URL_GAME_FILES" : "https://www.dropbox.com/scl/fi/9icoorptzbbtl4gv1zuc5/ntgamefile.zip?rlkey=txojo3ihrj2alz9h8bjxl0n59&dl=1",
-    "URL_GAME_FILES_UPD" : "https://www.dropbox.com/scl/fi/6q1dhi7p2bo4pd736eiev/ntupdategame.zip?rlkey=mkq3kx82v2imuang331ap119m&dl=1",
-    "URL_VK": "https://vk.com/",
-    "URL_DISCORD": "https://discord.gg/",
-    "URL_YOUTUBE": "",
-    "URL_FORUM": "",
-    "URL_DONATE": "",
+    "URL_GAME_FILES" : "https://www.dropbox.com/scl/fi/fmzf7e4iiyfuy942kuqka/ntgamefile.zip?rlkey=guxhnqpswjewbw900zbvmy9a1&dl=1",
+    "URL_GAME_FILES_UPD" : "https://www.dropbox.com/scl/fi/5zauwnvp8xdcn76jvaicl/ntupdategame.zip?rlkey=oo9wvec7ltp6i5al6k3p4yvj4&dl=1",
     "URL_CLIENT": "",
     "URL_CLIENTSAMPAPK": ""
 }

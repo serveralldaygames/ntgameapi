@@ -1,7 +1,7 @@
 {
     "clientVersionCode": 1,
     "clientSampVersionCode": 1,
-    "gameFilesVersionCode": 4,
+    "gameFilesVersionCode": 1,
     "URL_GAME_FILES" : "http://147.50.252.112/ntgame/ntgamefile.zip",
     "URL_GAME_FILES_UPD" : "http://147.50.252.112/ntgame/ntupdategame.zip",
     "URL_VK": "https://vk.com/",

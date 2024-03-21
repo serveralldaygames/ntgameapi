@@ -1,6 +1,12 @@
 {
-    "URL_GAME_FILES" : "http://wh3606.web3.maze-host.ru/cache.zip",
-    "URL_VK": "https://discord.gg/GjFRcAZ6yT",
-    "URL_TELEGRAM": "https://www.facebook.com/groups/583732819015050?locale=th_TH",
-    "URL_DISCORD": "https://discord.gg/bURRQUJcmu"
+    "clientVersionCode": 100,
+    "gameFilesVersionCode": 100,
+    "URL_GAME_FILES" : "http://a0740055.xsph.ru/game/game.zip",
+    "URL_GAME_FILES_UPD" : "http://a0740055.xsph.ru/game/files_upd.zip",
+    "URL_VK": "https://vk.com/",
+    "URL_DISCORD": "",
+    "URL_YOUTUBE": "",
+    "URL_FORUM": "",
+    "URL_DONATE": "",
+    "URL_CLIENT": "http://a0740055.xsph.ru/game/client.apk"
 }

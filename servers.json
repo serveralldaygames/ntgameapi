@@ -4,5 +4,11 @@
 		"port": 7777,
 		"id": 1,
 		"name":"IRONMANZING"
+	},
+	{
+		"ip": "gta-irz.com",
+		"port": 7777,
+		"id": 2,
+		"name":"ALLDAY GAMES"
 	}
 ]
